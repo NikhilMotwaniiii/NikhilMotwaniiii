@@ -21,10 +21,11 @@
 ![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
 
 <div style="text-align: center">
+ <p>With a strong background in full stack development, I specialize in delivering high-performance, scalable web solutions. Currently, I work as a Senior Software Developer at CribLiv, where I lead the development and maintenance of the company’s core website using Next.js, Express, and Node.js. My expertise spans across the MERN and MEAN stacks, with hands-on experience in Angular, React, Node js, HTML5, CSS3, and various other JavaScript frameworks.</p> <br />
 
-<br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilMotwaniiii&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NikhilMotwaniiii&repo=CribLiv)](https://github.com/anuraghazra/github-readme-stats)
+<p>Previously, I’ve contributed as a Frontend Developer Intern at Trinarybits Technologies, gaining solid experience in Angular, React, and Bootstrap, and as a Full Stack Developer Intern at Agrocast Analytics, where I developed a weather statistics portal and contributed to the creation of Gujarat's first Digital Taluka Map using JavaScript, PHP, and MySQL.</p>
+<br/>
+<p>I hold a Bachelor’s in Computer Applications from St. Xavier’s College and I have completed a Post Graduate Diploma in Data Science from Gujarat Technological University.<p
 </div>
 
 <!--
