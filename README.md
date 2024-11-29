@@ -24,6 +24,7 @@
 
 <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilMotwaniiii&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NikhilMotwaniiii&repo=CribLiv)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <!--
